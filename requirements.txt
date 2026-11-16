@@ -1,0 +1,6 @@
+requests
+pandas
+psycopg[binary]
+openpyxl
+python-dotenv
+pytest

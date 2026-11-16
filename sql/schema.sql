@@ -1,0 +1,4 @@
+-- TODO: modelar as tabelas
+-- Sugestão de ponto de partida:
+--   indicador (id, codigo_sgs, nome, periodicidade)
+--   cotacao   (indicador_id, data, valor) com chave única (indicador_id, data)
